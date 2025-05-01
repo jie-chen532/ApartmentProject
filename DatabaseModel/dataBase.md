@@ -8,8 +8,10 @@
 ![](https://github.com/jie-chen532/ApartmentProject/blob/main/images/%E6%88%BF%E9%97%B4%E4%BF%A1%E6%81%AF.jpg)
 # 用户信息
 用户信息包含的属性有手机号码、密码、头像、昵称、账号状态
-# 看房租约信息
+![](https://github.com/jie-chen532/ApartmentProject/blob/main/images/%E7%94%A8%E6%88%B7%E4%BF%A1%E6%81%AF.jpg)
+# 看房预约信息
 看房租约信息包含的属性有预约用户信息、预约公寓信息、预约时间、备注信息、预约状态
+![](https://github.com/jie-chen532/ApartmentProject/blob/main/images/%E9%A2%84%E7%BA%A6%E4%BF%A1%E6%81%AF.jpg)
 # 租约信息
 
 # 浏览历史信息
