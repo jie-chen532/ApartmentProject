@@ -24,3 +24,9 @@
 
 # 技术项目概述
 ![](https://github.com/jie-chen532/ApartmentProject/blob/main/images/%E9%A1%B9%E7%9B%AE%E6%8A%80%E6%9C%AF%E6%A6%82%E8%BF%B0.jpg)
+
+前端：框架-vue3
+后端：框架-SpringBoot，数据库-MyBatis、MyBatisPlus，Web-SpringMvc
+数据存储：关系型数据库-MySQL，缓存-redis，对象存储-MinIO(本项目采用开源的对象存储MinIO来存储图片信息)
+部署：前端服务器：Nginx
+
