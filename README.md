@@ -16,5 +16,5 @@
 
 # 核心业务流程
 
-![核心流程](https://qp74u.bmwae.cn/sqrcode/image?short=nJj3AA&domain=pjwv.bmwwx.cn&sign=)
+![](https://github.com/jie-chen532/ApartmentProject/blob/main/images/%E6%A0%B8%E5%BF%83%E6%B5%81%E7%A8%8B%E5%9B%BE.jpg)
 
