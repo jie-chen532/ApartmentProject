@@ -16,5 +16,5 @@
 
 # 核心业务流程
 
-![核心流程](https://pjwv.bmwwx.cn/nJj3AA)
+![核心流程]https://qp74u.bmwae.cn/sqrcode/image?short=nJj3AA&domain=pjwv.bmwwx.cn&sign=)
 
