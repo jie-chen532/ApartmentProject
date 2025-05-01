@@ -18,3 +18,5 @@
 
 ![](https://github.com/jie-chen532/ApartmentProject/blob/main/images/%E6%A0%B8%E5%BF%83%E6%B5%81%E7%A8%8B%E5%9B%BE.jpg)
 
+# 租约状态变化
+租约共有7个状态，分别是签约待确认、已签约、已取消、已到期、退租待确认、已退租、续约待确认，以下是这些状态的流程变化
